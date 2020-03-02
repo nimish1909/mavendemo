@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="24832" started-at="2020-02-26T07:14:10Z" finished-at="2020-02-26T07:14:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="24832" started-at="2020-02-26T07:14:10Z" finished-at="2020-02-26T07:14:35Z">
+      <class name="Duplicate.CreateModule">
+        <test-method status="PASS" signature="configBs()[pri:0, instance:Duplicate.CreateModule@66048bfd]" name="configBs" is-config="true" duration-ms="12" started-at="2020-02-26T12:44:10Z" finished-at="2020-02-26T12:44:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBs -->
+        <test-method status="PASS" signature="configBC()[pri:0, instance:Duplicate.CreateModule@66048bfd]" name="configBC" is-config="true" duration-ms="3791" started-at="2020-02-26T12:44:10Z" finished-at="2020-02-26T12:44:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:Duplicate.CreateModule@66048bfd]" name="configBM" is-config="true" duration-ms="6206" started-at="2020-02-26T12:44:13Z" finished-at="2020-02-26T12:44:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="data()[pri:0, instance:Duplicate.CreateModule@66048bfd]" name="data" duration-ms="13020" started-at="2020-02-26T12:44:20Z" finished-at="2020-02-26T12:44:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- data -->
+        <test-method status="PASS" signature="configAM()[pri:0, instance:Duplicate.CreateModule@66048bfd]" name="configAM" is-config="true" duration-ms="1618" started-at="2020-02-26T12:44:33Z" finished-at="2020-02-26T12:44:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method status="PASS" signature="configAC()[pri:0, instance:Duplicate.CreateModule@66048bfd]" name="configAC" is-config="true" duration-ms="184" started-at="2020-02-26T12:44:34Z" finished-at="2020-02-26T12:44:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+        <test-method status="PASS" signature="configAs()[pri:0, instance:Duplicate.CreateModule@66048bfd]" name="configAs" is-config="true" duration-ms="1" started-at="2020-02-26T12:44:35Z" finished-at="2020-02-26T12:44:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAs -->
+      </class> <!-- Duplicate.CreateModule -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

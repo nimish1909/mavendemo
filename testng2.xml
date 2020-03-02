@@ -1,0 +1,9 @@
+
+<suite name="Suite" parallel="none">
+  <test name="Test">
+    <packages>
+      <package name="TestNGExcutecountinue"/>
+      <package name ="com.autodesk.com.organizationTest"/>
+    </packages>
+  </test> 
+</suite> 
